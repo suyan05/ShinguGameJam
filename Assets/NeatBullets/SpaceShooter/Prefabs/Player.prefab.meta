@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14921f3c4f19bc148a1958d8bde2437f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/Player.prefab
+  uploadId: 673173

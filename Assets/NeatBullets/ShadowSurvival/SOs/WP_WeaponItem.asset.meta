@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c0313b56a237c444bee170b84a967d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/SOs/WP_WeaponItem.asset
+  uploadId: 673173

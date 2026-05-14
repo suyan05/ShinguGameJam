@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f28d1246798c93943bedcdfd391d818f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Prefabs/Map.prefab
+  uploadId: 673173

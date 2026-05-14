@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6795ec3d61d3c2d43b41b9fa0b8112ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ThirdParty/ShadowSurvival/Characters/Player/Animations/Run.anim
+  uploadId: 673173

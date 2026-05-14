@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6bc524f3c65158e48a694fc3f0c1385b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/Core/Scripts/WeaponSystem/ProjectileStatePattern/States/Reflection/CircleReflectionState.cs
+  uploadId: 673173

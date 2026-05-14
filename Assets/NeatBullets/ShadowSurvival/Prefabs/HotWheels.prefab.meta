@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a889678b1452c94cb8abb7e9f0f7b03
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Prefabs/HotWheels.prefab
+  uploadId: 673173

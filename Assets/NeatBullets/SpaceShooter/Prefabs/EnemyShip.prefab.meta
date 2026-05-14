@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a6ce1663bf335941b1ba24123845d6c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/EnemyShip.prefab
+  uploadId: 673173

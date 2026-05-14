@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8f5ef4c59f291a419726fe65a4a0443
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/Core/ProjectileGenomes/ACA65868/Params_ACA65868.json
+  uploadId: 673173

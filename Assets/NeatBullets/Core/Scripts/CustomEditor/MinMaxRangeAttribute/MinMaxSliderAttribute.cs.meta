@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 04f301682ccb74d49ada185c35d0b1e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/Core/Scripts/CustomEditor/MinMaxRangeAttribute/MinMaxSliderAttribute.cs
+  uploadId: 673173

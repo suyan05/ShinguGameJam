@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ec1301417f7145cd8d2bc98616fbc7ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Scripts/EnemiesBehaviour/EnemyStates/ShootingState.cs
+  uploadId: 673173

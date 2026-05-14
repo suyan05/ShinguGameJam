@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 10ef2942eb97a4746b6a596e8030ae35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Scripts/EnemyBehaviour/EnemyController.cs
+  uploadId: 673173

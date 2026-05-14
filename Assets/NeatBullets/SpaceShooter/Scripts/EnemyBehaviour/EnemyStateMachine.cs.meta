@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3cf16956d969f094ab5156cdc7da2a9c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Scripts/EnemyBehaviour/EnemyStateMachine.cs
+  uploadId: 673173

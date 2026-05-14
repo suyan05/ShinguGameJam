@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cb49f34e0fcc62408239ca5e3940833
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/UI/PauseCanvas.prefab
+  uploadId: 673173

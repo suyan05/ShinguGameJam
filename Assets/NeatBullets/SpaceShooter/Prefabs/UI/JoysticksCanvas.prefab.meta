@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f878c04bf3cf864bbae04ea55e1330d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/UI/JoysticksCanvas.prefab
+  uploadId: 673173

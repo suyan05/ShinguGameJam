@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97e838faa81149318a698b274bcfae6a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Prefabs/MagicRod.prefab
+  uploadId: 673173

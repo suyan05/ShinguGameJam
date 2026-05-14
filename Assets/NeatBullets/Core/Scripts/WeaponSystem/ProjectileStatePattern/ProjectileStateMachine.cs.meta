@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ccf09c586f069fb4dae5ea9bde0f218c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/Core/Scripts/WeaponSystem/ProjectileStatePattern/ProjectileStateMachine.cs
+  uploadId: 673173

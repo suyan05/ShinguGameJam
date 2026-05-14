@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 346f7f142d8d3e74e897b00f9e834099
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Prefabs/EnemyProjectile.prefab
+  uploadId: 673173

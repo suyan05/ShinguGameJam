@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3dc51d407c815044b29dec22e5b08c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Prefabs/UIProjectile.prefab
+  uploadId: 673173

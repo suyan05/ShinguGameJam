@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bdd31fa624f0f34fb1594009ba4a85b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/Managers/InputManager.prefab
+  uploadId: 673173

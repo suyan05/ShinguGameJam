@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e63013981d0704e489849a64654f9ad3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/Managers/LevelManager.prefab
+  uploadId: 673173

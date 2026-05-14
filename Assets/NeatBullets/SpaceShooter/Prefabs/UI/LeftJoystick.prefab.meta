@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3815f35c62386ea47ab8fa7ad859a7b9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/UI/LeftJoystick.prefab
+  uploadId: 673173

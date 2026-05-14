@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d81d2f7aca73b2546ae9c1aefe1e2ec5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Prefabs/EnemySpawnerShadow.prefab
+  uploadId: 673173

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4cb8c7fa93362f64e8b21faa252f1828
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/Core/WeaponEvolutionScene.unity
+  uploadId: 673173

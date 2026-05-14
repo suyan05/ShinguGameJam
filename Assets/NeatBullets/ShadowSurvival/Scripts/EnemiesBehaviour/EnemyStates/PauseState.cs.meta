@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: deb9456eb0494a3a88af2e0af25d6e5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Scripts/EnemiesBehaviour/EnemyStates/PauseState.cs
+  uploadId: 673173

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 118af84c8eaa3a24bb1a4e01a596faf0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/Core/Prefabs/EvolutionAlgorithm.prefab
+  uploadId: 673173

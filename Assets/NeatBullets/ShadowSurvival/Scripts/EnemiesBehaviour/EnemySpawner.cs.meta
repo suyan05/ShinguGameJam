@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 88f900531f2c72846a2aff0677c68eec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Scripts/EnemiesBehaviour/EnemySpawner.cs
+  uploadId: 673173

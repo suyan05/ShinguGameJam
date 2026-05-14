@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0df2353845b54aa18af1e1a56bcee7f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/ShadowSurvival/Prefabs/PickUpCanvas.prefab
+  uploadId: 673173

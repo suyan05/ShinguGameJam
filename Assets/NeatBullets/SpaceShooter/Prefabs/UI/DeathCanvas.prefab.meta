@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8bb482d645f1de4489ceea972819c311
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/SpaceShooter/Prefabs/UI/DeathCanvas.prefab
+  uploadId: 673173

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ee6d6f0a4149c7429928f386fe67d2f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/Documentation/README.md
+  uploadId: 673173

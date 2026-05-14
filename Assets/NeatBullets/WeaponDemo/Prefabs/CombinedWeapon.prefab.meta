@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fde533a2504d5bc4598dffe5f1af883b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280732
+  packageName: NEAT Bullets - 2D Weapon Evolution System
+  packageVersion: 1.0.0
+  assetPath: Assets/NeatBullets/WeaponDemo/Prefabs/CombinedWeapon.prefab
+  uploadId: 673173
